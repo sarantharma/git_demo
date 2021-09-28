@@ -3,17 +3,11 @@ PLayList
 
 Vijay songs
 ===========
-Mersal
-Bigil
-Master
-Beast
-Vijay 66
 
 Ajith songs
 ===========
 
-
-
-
 Old songs
 ==========
+
+This is empty
